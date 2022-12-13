@@ -29,7 +29,7 @@
     "@elastic/elasticsearch": "^7.8.0",
     "aws-sdk": "^2.705.0",
     "elasticsearch": "^16.7.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "http-aws-es": "^6.0.0"
   }
 }
